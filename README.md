@@ -43,7 +43,7 @@ Figure 3:  Summary analysis of the key attributes of ensemble-before-inference m
 - **Bench-CoE: a Framework for Collaboration of Experts from Benchmark.** (2024) <a href="https://arxiv.org/abs/2412.04167"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: Bench-CoE, <a href="https://github.com/ZhangXJ199/Bench-CoE"><img src="https://img.shields.io/badge/Code-Official-blue?logo=github"></a>
 
-- **Routing to the Expert: Efficient Reward-guided Ensemble of Large Language Models.** (2023) <a href="https://arxiv.org/abs/2311.08692"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
+- **✅ Routing to the Expert: Efficient Reward-guided Ensemble of Large Language Models.** (2023) <a href="https://arxiv.org/abs/2311.08692"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: ZOOTER, Code: -
 
 - **GraphRouter: A Graph-based Router for LLM Selections** (2024) <a href="https://arxiv.org/abs/2410.03834"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
