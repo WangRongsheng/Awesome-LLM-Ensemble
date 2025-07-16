@@ -64,7 +64,7 @@ Figure 3:  Summary analysis of the key attributes of ensemble-before-inference m
 - **(Newly added paper, March 2025:) ✅ RouterDC: Query-Based Router by Dual Contrastive Learning for Assembling Large Language Models.** (2024) <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/7a641b8ec86162fc875fb9f6456a542f-Abstract-Conference.html"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: RouterDC, <a href="https://github.com/shuhao02/RouterDC"><img src="https://img.shields.io/badge/Code-Official-blue?logo=github"></a>
 
-- **(Newly added paper, May 2025:) Rethinking Predictive Modeling for LLM Routing: When Simple kNN Beats Complex Learned Routers.** (2025) <a href="https://arxiv.org/abs/2505.12601"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
+- **(Newly added paper, May 2025:) ❌ Rethinking Predictive Modeling for LLM Routing: When Simple kNN Beats Complex Learned Routers.** (2025) <a href="https://arxiv.org/abs/2505.12601"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: -, Code: -
 
 - **(Newly added paper, May 2025:) InferenceDynamics: Efficient Routing Across LLMs through Structured Capability and Knowledge Profiling.** (2025) <a href="https://arxiv.org/abs/2505.16303"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
