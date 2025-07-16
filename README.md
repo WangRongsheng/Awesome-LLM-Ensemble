@@ -46,6 +46,9 @@ Figure 3:  Summary analysis of the key attributes of ensemble-before-inference m
 - **Routing to the Expert: Efficient Reward-guided Ensemble of Large Language Models.** (2023) <a href="https://arxiv.org/abs/2311.08692"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: ZOOTER, Code: -
 
+- **GraphRouter: A Graph-based Router for LLM Selections** (2024) <a href="https://arxiv.org/abs/2410.03834"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: GraphRouter, Code: -
+
 - **✅ TensorOpera Router: A Multi-Model Router for Efficient LLM Inference.** (2024) <a href="https://arxiv.org/abs/2408.12320"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: TO-Router, Code: -
 
