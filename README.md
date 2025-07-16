@@ -70,7 +70,7 @@ Figure 3:  Summary analysis of the key attributes of ensemble-before-inference m
 - **(Newly added paper, May 2025:) InferenceDynamics: Efficient Routing Across LLMs through Structured Capability and Knowledge Profiling.** (2025) <a href="https://arxiv.org/abs/2505.16303"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: InferenceDynamics, Code: -
 
-- **(Newly added paper, May 2025:) CO-OPTIMIZING RECOMMENDATION AND EVALUATION FOR LLM SELECTION.** (2025) <a href="https://openreview.net/pdf?id=gWi4ZcPQRl"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
+- **(Newly added paper, May 2025:) ❌ CO-OPTIMIZING RECOMMENDATION AND EVALUATION FOR LLM SELECTION.** (2025) <a href="https://openreview.net/pdf?id=gWi4ZcPQRl"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: RELM, Code: -
 
 - **(Newly added paper, May 2025:) ❌ Route to Reason: Adaptive Routing for LLM and Reasoning Strategy Selection.** (2025) <a href="https://arxiv.org/abs/2505.19435"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
