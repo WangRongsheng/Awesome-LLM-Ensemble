@@ -55,7 +55,7 @@ Figure 3:  Summary analysis of the key attributes of ensemble-before-inference m
 - **Query Routing for Homogeneous Tools: An Instantiation in the RAG Scenario.** (2024) <a href="https://arxiv.org/abs/2406.12429"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: HomoRouter, Code: -
 
-- **Fly-Swat or Cannon? Cost-Effective Language Model Choice via Meta-Modeling.** (2023) <a href="https://arxiv.org/abs/2308.06077"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
+- **❌ Fly-Swat or Cannon? Cost-Effective Language Model Choice via Meta-Modeling.** (2023) <a href="https://arxiv.org/abs/2308.06077"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: FORC, <a href="https://github.com/epfl-dlab/forc"><img src="https://img.shields.io/badge/Code-Official-blue?logo=github"></a>
 
 - **✅ Routoo: Learning to Route to Large Language Models Effectively.** (2024) <a href="https://arxiv.org/abs/2401.13979"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
