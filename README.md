@@ -52,7 +52,7 @@ Figure 3:  Summary analysis of the key attributes of ensemble-before-inference m
 - **✅ TensorOpera Router: A Multi-Model Router for Efficient LLM Inference.** (2024) <a href="https://arxiv.org/abs/2408.12320"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: TO-Router, Code: -
 
-- **Query Routing for Homogeneous Tools: An Instantiation in the RAG Scenario.** (2024) <a href="https://arxiv.org/abs/2406.12429"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
+- **❌ Query Routing for Homogeneous Tools: An Instantiation in the RAG Scenario.** (2024) <a href="https://arxiv.org/abs/2406.12429"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: HomoRouter, Code: -
 
 - **❌ Fly-Swat or Cannon? Cost-Effective Language Model Choice via Meta-Modeling.** (2023) <a href="https://arxiv.org/abs/2308.06077"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
