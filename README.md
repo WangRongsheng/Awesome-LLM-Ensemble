@@ -73,7 +73,7 @@ Figure 3:  Summary analysis of the key attributes of ensemble-before-inference m
 - **(Newly added paper, May 2025:) CO-OPTIMIZING RECOMMENDATION AND EVALUATION FOR LLM SELECTION.** (2025) <a href="https://openreview.net/pdf?id=gWi4ZcPQRl"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: RELM, Code: -
 
-- **(Newly added paper, May 2025:) Route to Reason: Adaptive Routing for LLM and Reasoning Strategy Selection.** (2025) <a href="https://arxiv.org/abs/2505.19435"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
+- **(Newly added paper, May 2025:) ❌ Route to Reason: Adaptive Routing for LLM and Reasoning Strategy Selection.** (2025) <a href="https://arxiv.org/abs/2505.19435"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: RTR, <a href="https://github.com/goodmanpzh/Route-To-Reason"><img src="https://img.shields.io/badge/Code-Official-blue?logo=github"></a>
 
 - **(Newly added paper, June 2025:) RadialRouter: Structured Representation for Efficient and Robust Large Language Models Routing.** (2025) <a href="https://www.arxiv.org/abs/2506.03880"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
