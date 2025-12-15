@@ -548,6 +548,8 @@ Figure 5:  Summary analysis of the key attributes of ensemble-after-inference me
 - **(Newly added paper, September 2025:) Semantic Agreement Enables Efficient Open-Ended LLM Cascades.** (2025) <a href="https://www.arxiv.org/abs/2509.21837"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: -, Code: -
 
+- **(Newly added paper, September 2025:) RoBoN: Routed Online Best-of-n for Test-Time Scaling with Multiple LLMs.** (2025) <a href="https://www.arxiv.org/abs/2512.05542"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: RoBoN, <a href="https://github.com/j-geuter/RoBoN"><img src="https://img.shields.io/badge/Code-Official-blue?logo=github"></a>
 
 
 &nbsp; 
