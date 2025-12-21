@@ -724,7 +724,7 @@ They mainly focus on **LLM Collaboration**.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: -,  Code: -
 
 
-- **(Newly added paper, December 2025:) BEYOND FAST AND SLOW: COGNITIVE-INSPIRED ELASTIC REASONING FOR LARGE LANGUAGE MODELS.** (2025) <a href="https://arxiv.org/abs/2512.15089"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
+- **(Newly added paper, December 2025:) Beyond Fast and Slow: Cognitive-Inspired Elastic Reasoning for Large Language Models.** (2025) <a href="https://arxiv.org/abs/2512.15089"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: CogER,  Code: -
 
 ---
