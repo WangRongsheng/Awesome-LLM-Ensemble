@@ -334,6 +334,8 @@ Figure 3:  Summary analysis of the key attributes of ensemble-before-inference m
 - **(Newly added paper, June 2025:) The Avengers: A Simple Recipe for Uniting Smaller Language Models to Challenge Proprietary Giants.** (2025) <a href="https://arxiv.org/abs/2505.19797"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: Avengers, <a href="https://github.com/ZhangYiqun018/Avengers"><img src="https://img.shields.io/badge/Code-Official-blue?logo=github"></a>
 
+- Beyond GPT-5: Making LLMs Cheaper and Better via Performance–Efficiency Optimized Routing [arXiv](https://arxiv.org/abs/2508.12631) [Github](https://github.com/ZhangYiqun018/AvengersPro)
+
 
 
 
@@ -569,6 +571,8 @@ Figure 5:  Summary analysis of the key attributes of ensemble-after-inference me
 
 - **(Newly added paper, April 2025:) RouterEval: A Comprehensive Benchmark for Routing LLMs to Explore Model-level Scaling Up in LLMs.** (2025) <a href="https://arxiv.org/abs/2503.10657"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: Speculative Ensemble, <a href="https://github.com/MilkThink-Lab/RouterEval"><img src="https://img.shields.io/badge/Code-Official-blue?logo=github"></a>
+
+- **RouterArena: An Open Platform for Comprehensive Comparison of LLM Routers** [Github](https://github.com/RouteWorks/RouterArena) [arXiv](https://arxiv.org/abs/2510.00202)
 
 
 ### 2.4.2 Applications
