@@ -317,6 +317,8 @@ Figure 3:  Summary analysis of the key attributes of ensemble-before-inference m
 - **(Newly added paper, October 2025:) WebRouter: Query-specific Router via Variational Information Bottleneck for Cost-sensitive Web Agent.** (2025) <a href="https://arxiv.org/abs/2510.11221"><img src="https://img.shields.io/badge/Paper-red?logo=arxiv&logoColor=white"></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: WebRouter, Code: -
 
+- ICL-Router: In-Context Learned Model Representations for LLM Routing [arXiv](https://arxiv.org/abs/2510.09719) [Github](https://github.com/lalalamdbf/ICL-Router)
+
 
 ### 2.1.2 (a,2) Non pre-trained router
 
