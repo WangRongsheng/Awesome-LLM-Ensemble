@@ -673,6 +673,8 @@ Here we give some examples:
 - **(Newly added, May 2025:) Ensemble-Hub.** (2025)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub: <a href="https://github.com/Fzkuji/Ensemble-Hub"><img src="https://img.shields.io/badge/Code-Official-blue?logo=github"></a>
 
+- https://github.com/ulab-uiuc/LLMRouter
+
 
 ---
 
